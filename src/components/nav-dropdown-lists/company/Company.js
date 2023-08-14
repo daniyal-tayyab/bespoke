@@ -23,7 +23,7 @@ const Company = ({ hidden }) => {
       <Content>
         <LeftMenu>
           <MenuItem>About</MenuItem>
-          <MenuItem>Life at TechiLab</MenuItem>
+          <MenuItem>Life at Bespke</MenuItem>
           <MenuItem>Careers</MenuItem>
           <MenuItem>Sustainability</MenuItem>
         </LeftMenu>

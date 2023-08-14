@@ -16,7 +16,7 @@ const Services = () => {
       <Container>
         <HeadingSection>
           <h2>
-            <span>Our</span> Techilab Software Development services
+            <span>Our</span> Bespke Software Development services
           </h2>
           <h3>are designed to enable customers across diverse initiatives​</h3>
         </HeadingSection>

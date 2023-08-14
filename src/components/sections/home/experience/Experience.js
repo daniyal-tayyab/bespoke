@@ -16,7 +16,7 @@ const Experience = () => {
       <Container>
         <HeadingSection>
           <h2>
-            <span>The Techilab</span> experience
+            <span>The Bespke</span> experience
           </h2>
         </HeadingSection>
         <ExperienceSection>

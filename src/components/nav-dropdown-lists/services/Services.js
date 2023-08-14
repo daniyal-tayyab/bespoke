@@ -9,7 +9,7 @@ const Services = ({ hidden }) => {
       <Content>
         <MenuItem>Cloud</MenuItem>
         <MenuItem>Data</MenuItem>
-        <MenuItem>TechiLab</MenuItem>
+        <MenuItem>Bespke</MenuItem>
         <MenuItem>Microsoft Power Platform</MenuItem>
         <MenuItem>Microsoft Dynamic 365</MenuItem>
         <MenuItem>

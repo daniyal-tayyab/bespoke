@@ -60,7 +60,7 @@ const Navigation = () => {
           <DrawerMenuItem
           // onClick={
           //   (toggleComapany,
-          //   () => openInNewTab(" http://techilab.com/about/"))
+          //   () => openInNewTab(" http://Bespke.com/about/"))
           // }
           >
             Company <AiFillCaretDown />
@@ -78,13 +78,14 @@ const Navigation = () => {
       </Drawer>
       <LogoContainer>
         <Link to="/">
-          <img src={Logo} alt="Daniyal" />
+          {/* <img src={Logo} alt="Daniyal" /> */}
+          <h1>Bespoke</h1>
         </Link>
       </LogoContainer>
       <Menu>
         <MenuItem
           // onClick={
-          //   (toggleComapany, () => openInNewTab(" http://techilab.com/about/"))
+          //   (toggleComapany, () => openInNewTab(" http://Bespke.com/about/"))
           // }
           onClick={toggleComapany}
         >
@@ -101,9 +102,9 @@ const Navigation = () => {
         </MenuItem>
       </Menu>
       <ButtonSection>
-        <Link to="/contact-us">
-          <Button>Contact</Button>
-        </Link>
+        {/* <Link to="/contact-us"> */}
+        <Button>Contact</Button>
+        {/* </Link> */}
 
         <MenuIcon>
           <IoMenuOutline

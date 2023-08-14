@@ -39,7 +39,8 @@ const Footer = () => {
       <FirstRow>
         <ColumnOneWrapper>
           <ColumnOne>
-            <img src={logo} alt="logo" />
+            {/* <img src={logo} alt="logo" /> */}
+            <h1>Bespoke</h1>
             <p>
               We nurture ecosystems of success by harnessing intelligent
               technologies and capitalizing on human ingenuity.
@@ -95,7 +96,7 @@ const Footer = () => {
       </FirstRow>
       <SecondRow>
         <Copyright>
-          Copyright &#169; {new Date().getFullYear()} TechiLab. All rights
+          Copyright &#169; {new Date().getFullYear()} Bespke. All rights
           reserved
         </Copyright>
         <SocailContainer>

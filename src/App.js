@@ -17,7 +17,7 @@ const App = () => {
         <Navigation />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/contact-us" element={<Contact />} />
+          {/* <Route path="/contact-us" element={<Contact />} /> */}
         </Routes>
         <Footer />
       </ThemeProvider>

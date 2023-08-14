@@ -18,12 +18,11 @@ const About = () => {
             agility and quick time-to-market for success
           </h2>
           <p>
-            At Techilab, we translate your business needs and ideas into
-            workable solutions and do it with agility while staying
-            price-competitive.
+            At Bespke, we translate your business needs and ideas into workable
+            solutions and do it with agility while staying price-competitive.
           </p>
           <p>
-            With a vast experience in building simple to highly complex techilab
+            With a vast experience in building simple to highly complex Bespke
             software applications, we support your entire journey from strategy
             to implementation to quality assurance to post-production.
           </p>

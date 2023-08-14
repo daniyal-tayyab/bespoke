@@ -20,8 +20,8 @@ const ExpandableBar = ({ title, heading, subHeading }) => {
     <div>
       <Container onClick={handleClick} heading={title}>
         <Title>{title}</Title>
-        {/* <Icon>{collapse ? "-" : "+"}</Icon> */}
-        <Icon>-</Icon>
+        <Icon>{collapse ? "-" : "+"}</Icon>
+        {/* <Icon>-</Icon> */}
       </Container>
       <ExpandableContainer clicked={collapse}>
         <Heading>{heading}</Heading>

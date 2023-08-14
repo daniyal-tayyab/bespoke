@@ -33,7 +33,7 @@ export const Icon = styled.span`
 `;
 
 export const ExpandableContainer = styled.div`
-  /* display: ${(props) => (props.clicked ? "block" : "none")}; */
+  display: ${(props) => (props.clicked ? "block" : "none")};
   width: 100%;
   height: 23.5;
   background-color: ${(props) => props.theme.body};

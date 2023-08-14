@@ -25,7 +25,7 @@ const PeopleDriven = () => {
         </p>
         <div
         // onClick={() =>
-        //   openInNewTab("http://techilab.com/mission-vision-and-values/")
+        //   openInNewTab("http://Bespke.com/mission-vision-and-values/")
         // }
         >
           <Button>Read more</Button>

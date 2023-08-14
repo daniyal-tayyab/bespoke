@@ -8,7 +8,7 @@ const Hero = () => {
       <Left />
       <Right />
       <TextSection>
-        <h1>Techilab Software</h1>
+        <h1>Bespke Software</h1>
         <span>Development</span>
         <p>
           Craft, integrate and maintain applications and software that fit your

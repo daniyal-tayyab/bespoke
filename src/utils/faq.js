@@ -1,7 +1,6 @@
 const faqs = [
   {
-    title:
-      "What programming language is used for mobile application development?",
+    title: "Programming language used for mobile app development?",
     description:
       "The most popular programming languages for mobile application development include Objective-C, Swift, Java, Kotlin, C#, Xamarin, React Native, Appcelerator, Cordova/PhoneGap, Ruby, Python, CSS, JavaScript, PHP, and BuildFire JS.",
   },
